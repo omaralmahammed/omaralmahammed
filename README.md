@@ -8,7 +8,7 @@
   <tr>
     <td style="vertical-align: top;">
       <ul>
-        <li>🌟 I'm a <strong>Full Stack Web Developer</strong>, graduated from <strong>Orange Coding Academy</strong>.</li>
+        <li>🌟 I'm a <strong>Software Engineer</strong>, graduated from <strong>Orange Coding Academy</strong>.</li>
         <li>🎓 I also hold a <strong>degree in Biotechnology</strong> from <strong>JUST University</strong>.</li>
         <li>💡 Passionate about technology, innovation, and using my front-end and back-end development skills to solve real-world problems.</li>
       </ul>
