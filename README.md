@@ -1,6 +1,6 @@
 # Welcome to Omar Almahammed's GitHub!
 
-## Full Stack Web Developer
+## Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/omar-al-mahammed)
 
